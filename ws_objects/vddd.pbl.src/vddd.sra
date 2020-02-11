@@ -23,6 +23,7 @@ sqlda = create dynamicdescriptionarea
 sqlsa = create dynamicstagingarea
 error = create error
 end on
+//2222
 
 on vddd.destroy
 destroy( sqlca )
