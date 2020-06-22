@@ -12,24 +12,35 @@ end forward
 
 global type vddd from application
 string appname = "vddd"
+string themepath = "C:\Program Files (x86)\Appeon\Shared\PowerBuilder\theme190"
+string themename = "Do Not Use Themes"
+boolean nativepdfvalid = false
+boolean nativepdfincludecustomfont = false
+string nativepdfappname = ""
+long richtextedittype = 2
+long richtexteditversion = 1
+string richtexteditkey = ""
+string appicon = ""
 end type
 global vddd vddd
 
 on vddd.create
-appname = "vddd"
-message = create message
-sqlca = create transaction
-sqlda = create dynamicdescriptionarea
-sqlsa = create dynamicstagingarea
-error = create error
+appname="vddd"
+message=create message
+sqlca=create transaction
+sqlda=create dynamicdescriptionarea
+sqlsa=create dynamicstagingarea
+error=create error
 end on
-//2222
 
 on vddd.destroy
-destroy( sqlca )
-destroy( sqlda )
-destroy( sqlsa )
-destroy( error )
-destroy( message )
+destroy(sqlca)
+destroy(sqlda)
+destroy(sqlsa)
+destroy(error)
+destroy(message)
 end on
+
+event open;open(w_002)//000000000
+end event
 
