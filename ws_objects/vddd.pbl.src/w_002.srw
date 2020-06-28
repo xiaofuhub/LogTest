@@ -38,7 +38,7 @@ destroy(this.cb_1)
 end on
 
 event open;//open 002
-//0000
+//00000
 end event
 
 type cb_2 from commandbutton within w_002
