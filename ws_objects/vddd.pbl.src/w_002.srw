@@ -37,6 +37,9 @@ destroy(this.cb_2)
 destroy(this.cb_1)
 end on
 
+event open;//open 002
+end event
+
 type cb_2 from commandbutton within w_002
 integer x = 727
 integer y = 1084
