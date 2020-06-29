@@ -42,7 +42,6 @@ destroy(message)
 end on
 
 event open;open(w_002)//0000000000
-//<<<<<<< HEAD
-//w001
+//12
 end event
 
