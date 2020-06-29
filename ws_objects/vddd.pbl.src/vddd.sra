@@ -42,6 +42,6 @@ destroy(message)
 end on
 
 event open;open(w_002)//0000000000
-//120101100
+//12010110044
 end event
 
