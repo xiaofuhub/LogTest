@@ -10,7 +10,7 @@ global error error
 global message message
 end forward
 
-//add001 conflict
+//add002 conflict
 
 global type vddd from application
 string appname = "vddd"
