@@ -10,6 +10,8 @@ global error error
 global message message
 end forward
 
+//add002 conflict
+
 global type vddd from application
 string appname = "vddd"
 string themepath = "C:\Program Files (x86)\Appeon\Shared\PowerBuilder\theme190"
