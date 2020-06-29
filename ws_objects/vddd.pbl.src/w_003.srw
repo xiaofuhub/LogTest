@@ -6,6 +6,7 @@ type cb_1 from commandbutton within w_003
 end type
 end forward
 //test001add
+//test001stash
 global type w_003 from window
 integer width = 4754
 integer height = 1980
