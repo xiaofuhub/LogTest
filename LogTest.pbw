@@ -1,6 +1,7 @@
 Save Format v3.0(19990112)
 @begin Targets
  0 "vddd.pbt";
+ 1 "fff.pbt";
 @end;
 DefaultTarget "vddd.pbt";
 DefaultRemoteTarget "vddd.pbt";
