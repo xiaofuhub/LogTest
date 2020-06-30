@@ -10,9 +10,6 @@ global error error
 global message message
 end forward
 
-//add001 conflict123
-// add002 xx
-
 global type vddd from application
 string appname = "vddd"
 string themepath = "C:\Program Files (x86)\Appeon\Shared\PowerBuilder\theme190"
@@ -46,6 +43,6 @@ end on
 
 event open;open(w_002)//0000000000
 //<<<<<<< HEAD
-//6663
+//66630
 end event
 
