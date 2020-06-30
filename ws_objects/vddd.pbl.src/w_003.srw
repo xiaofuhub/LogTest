@@ -7,6 +7,7 @@ end type
 end forward
 //test001add
 //test001stashabc
+// modefy
 global type w_003 from window
 integer width = 4754
 integer height = 1980

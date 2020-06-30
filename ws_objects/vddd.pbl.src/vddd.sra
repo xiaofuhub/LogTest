@@ -11,6 +11,7 @@ global message message
 end forward
 
 //add001 conflict123
+// add 001 conflcit001
 
 global type vddd from application
 string appname = "vddd"
