@@ -42,8 +42,8 @@ event open;//open 002
 end event
 
 type cb_2 from commandbutton within w_002
-integer x = 462
-integer y = 496
+integer x = 553
+integer y = 812
 integer width = 457
 integer height = 132
 integer taborder = 20
