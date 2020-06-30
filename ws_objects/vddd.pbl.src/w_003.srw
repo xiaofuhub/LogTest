@@ -5,9 +5,7 @@ end type
 type cb_1 from commandbutton within w_003
 end type
 end forward
-//test001add
-//test001stashabc
-// modefy
+
 global type w_003 from window
 integer width = 4754
 integer height = 1980
@@ -37,8 +35,8 @@ event open;//w_003
 end event
 
 type cb_1 from commandbutton within w_003
-integer x = 247
-integer y = 468
+integer x = 270
+integer y = 364
 integer width = 457
 integer height = 132
 integer taborder = 10
