@@ -7,7 +7,7 @@ end type
 type cb_1 from commandbutton within w_002
 end type
 end forward
-//add002 extra comment
+
 global type w_002 from window
 integer width = 3378
 integer height = 1408
