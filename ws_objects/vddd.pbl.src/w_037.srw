@@ -1,12 +1,12 @@
-﻿$PBExportHeader$w_010.srw
+﻿$PBExportHeader$w_037.srw
 forward
-global type w_010 from window
+global type w_037 from window
 end type
-type cb_1 from commandbutton within w_010
+type cb_1 from commandbutton within w_037
 end type
 end forward
 
-global type w_010 from window
+global type w_037 from window
 integer width = 4754
 integer height = 1980
 boolean titlebar = true
@@ -20,20 +20,20 @@ string icon = "AppIcon!"
 boolean center = true
 cb_1 cb_1
 end type
-global w_010 w_010
+global w_037 w_037
 
-on w_010.create
+on w_037.create
 this.cb_1=create cb_1
 this.Control[]={this.cb_1}
 end on
 
-on w_010.destroy
+on w_037.destroy
 destroy(this.cb_1)
 end on
 
-type cb_1 from commandbutton within w_010
-integer x = 581
-integer y = 128
+type cb_1 from commandbutton within w_037
+integer x = 1381
+integer y = 796
 integer width = 457
 integer height = 132
 integer taborder = 10
