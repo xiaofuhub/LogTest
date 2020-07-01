@@ -43,6 +43,6 @@ end on
 
 event open;//open(w_002)//0000000000
 //002 conflict0022000000
-//1100
+//11000
 end event
 
