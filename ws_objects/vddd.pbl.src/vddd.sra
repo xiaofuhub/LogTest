@@ -42,7 +42,6 @@ destroy(message)
 end on
 
 event open;open(w_002)//0000000000
-//<<<<<<< HEAD
-//666300
+// conflict 001
 end event
 
