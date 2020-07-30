@@ -44,7 +44,8 @@ end on
 event open;//open(w_002)//0000000000
 //002 conflict002200000000mmm
 // 0020010223331212112220001110002
-//trrr444400
+//trrr4444001100
+//test001
 //d
 end event
 
